@@ -1,5 +1,4 @@
-npm install react-app-rewired
-npm install customize-cra
+npm install react-app-rewired customize-cra
 
 echo " const {
   override,
