@@ -10,4 +10,4 @@ module.exports = override(
   addDecoratorsLegacy(),
   disableEsLint(),
 );
-" > config.overrides.js
+" > config-overrides.js
